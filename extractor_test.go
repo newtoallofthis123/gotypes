@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/newtoallofthis123/go_types"
+	. "github.com/newtoallofthis123/gotypes"
 )
 
 type UserRequest struct {

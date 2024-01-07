@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	gotypes "github.com/newtoallofthis123/go_types"
+	gotypes "github.com/newtoallofthis123/gotypes"
 )
 
 func TestTypeTest(t *testing.T) {
